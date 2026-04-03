@@ -1,10 +1,9 @@
-**Tech Stack**
+# Playwright Automation Task (UI & API)
 
-Framework: Playwright (TypeScript) 
+]This repository contains the technical assessment for Moxymind, featuring automated test suites for **SauceDemo** (UI) and **ReqRes** (API).
 
-Language: TypeScript
-
-Design Pattern: Page Object Model (POM)
-
-
-API Testing: Playwright API Request Context
+## Setup & Installation
+```bash
+# Install dependencies and browsers
+npm install
+npx playwright install
